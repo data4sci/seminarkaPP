@@ -1,0 +1,138 @@
+Sat Nov  7 08:21:20 2015
+	Acct-Session-Id = "563862FA-00000149"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.13
+	NAS-Identifier = "24a43c4c7a20"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7A-20:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "e10b1a6658a493e9"
+	Timestamp = 1446880880
+
+Sat Nov  7 08:21:20 2015
+	Acct-Session-Id = "563862FA-00000149"
+	Acct-Status-Type = Stop
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.13
+	NAS-Identifier = "24a43c4c7a20"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7A-20:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 0
+	Acct-Input-Packets = 16
+	Acct-Output-Packets = 15
+	Acct-Input-Octets = 2002
+	Acct-Output-Octets = 4266
+	Event-Timestamp = "Nov  7 2015 08:21:16 CET"
+	Acct-Terminate-Cause = User-Request
+	Acct-Unique-Session-Id = "e10b1a6658a493e9"
+	Timestamp = 1446880880
+
+Sat Nov  7 08:21:21 2015
+	Acct-Session-Id = "563862FA-0000014A"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.13
+	NAS-Identifier = "24a43c4c7a20"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7A-20:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "517836d56e3eb434"
+	Timestamp = 1446880881
+
+Sat Nov  7 08:21:28 2015
+	Acct-Session-Id = "563862FA-0000014A"
+	Acct-Status-Type = Interim-Update
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.13
+	NAS-Identifier = "24a43c4c7a20"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7A-20:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 8
+	Event-Timestamp = "Nov  7 2015 08:21:25 CET"
+	Acct-Unique-Session-Id = "517836d56e3eb434"
+	Timestamp = 1446880888
+
+Sat Nov  7 08:21:36 2015
+	Acct-Session-Id = "563862FD-0000029D"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.14
+	NAS-Identifier = "24a43c4c7f0b"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7F-0B:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "bdf1dc5460df88d0"
+	Timestamp = 1446880896
+
+Sat Nov  7 08:22:25 2015
+	Acct-Session-Id = "563862FD-0000029D"
+	Acct-Status-Type = Interim-Update
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.14
+	NAS-Identifier = "24a43c4c7f0b"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7F-0B:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 49
+	Event-Timestamp = "Nov  7 2015 08:22:21 CET"
+	Acct-Unique-Session-Id = "bdf1dc5460df88d0"
+	Timestamp = 1446880945
+
+Sat Nov  7 08:22:26 2015
+	Acct-Session-Id = "56386302-00000125"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.12
+	NAS-Identifier = "24a43c4c781f"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-78-1F:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "e7286bd5ad9d4e9b"
+	Timestamp = 1446880946
+
+Sat Nov  7 08:28:04 2015
+	Acct-Session-Id = "56386302-00000125"
+	Acct-Status-Type = Stop
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.12
+	NAS-Identifier = "24a43c4c781f"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-78-1F:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 338
+	Acct-Input-Packets = 109
+	Acct-Output-Packets = 20
+	Acct-Input-Octets = 13938
+	Acct-Output-Octets = 4496
+	Event-Timestamp = "Nov  7 2015 08:28:00 CET"
+	Acct-Terminate-Cause = User-Request
+	Acct-Unique-Session-Id = "e7286bd5ad9d4e9b"
+	Timestamp = 1446881284
+

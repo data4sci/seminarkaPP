@@ -1,0 +1,170 @@
+Sun Nov  8 19:35:31 2015
+	Acct-Session-Id = "563862FD-0000029E"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.14
+	NAS-Identifier = "24a43c4c7f0b"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7F-0B:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "f7ec982e7b8a2e30"
+	Timestamp = 1447007731
+
+Sun Nov  8 19:36:10 2015
+	Acct-Session-Id = "0000002B-000000B9"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.25
+	NAS-Identifier = "24a43c4c7c26"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7C-26:oa-IT"
+	Calling-Station-Id = "D8-FC-93-79-4D-2A"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "f859ef0864d9f148"
+	Timestamp = 1447007770
+
+Sun Nov  8 19:36:36 2015
+	Acct-Session-Id = "0000002B-000000B9"
+	Acct-Status-Type = Interim-Update
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.25
+	NAS-Identifier = "24a43c4c7c26"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7C-26:oa-IT"
+	Calling-Station-Id = "D8-FC-93-79-4D-2A"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 25
+	Event-Timestamp = "Jan  6 1970 12:04:57 CET"
+	Acct-Unique-Session-Id = "f859ef0864d9f148"
+	Timestamp = 1447007796
+
+Sun Nov  8 19:36:37 2015
+	Acct-Session-Id = "563862FD-0000029F"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.14
+	NAS-Identifier = "24a43c4c7f0b"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7F-0B:oa-IT"
+	Calling-Station-Id = "D8-FC-93-79-4D-2A"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "2f1098997e00fe90"
+	Timestamp = 1447007797
+
+Sun Nov  8 19:36:59 2015
+	Acct-Session-Id = "563862FD-0000029E"
+	Acct-Status-Type = Interim-Update
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.14
+	NAS-Identifier = "24a43c4c7f0b"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7F-0B:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 88
+	Event-Timestamp = "Nov  8 2015 19:36:54 CET"
+	Acct-Unique-Session-Id = "f7ec982e7b8a2e30"
+	Timestamp = 1447007819
+
+Sun Nov  8 19:37:00 2015
+	Acct-Session-Id = "56386302-00000126"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.12
+	NAS-Identifier = "24a43c4c781f"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-78-1F:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "f50713ec3e08f044"
+	Timestamp = 1447007820
+
+Sun Nov  8 19:37:16 2015
+	Acct-Session-Id = "563862FD-0000029F"
+	Acct-Status-Type = Interim-Update
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.14
+	NAS-Identifier = "24a43c4c7f0b"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-7F-0B:oa-IT"
+	Calling-Station-Id = "D8-FC-93-79-4D-2A"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 40
+	Event-Timestamp = "Nov  8 2015 19:37:11 CET"
+	Acct-Unique-Session-Id = "2f1098997e00fe90"
+	Timestamp = 1447007836
+
+Sun Nov  8 19:37:17 2015
+	Acct-Session-Id = "56386302-00000127"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.12
+	NAS-Identifier = "24a43c4c781f"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-78-1F:oa-IT"
+	Calling-Station-Id = "D8-FC-93-79-4D-2A"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "1c6149a65ac8cf68"
+	Timestamp = 1447007837
+
+Sun Nov  8 19:42:37 2015
+	Acct-Session-Id = "56386302-00000126"
+	Acct-Status-Type = Stop
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.12
+	NAS-Identifier = "24a43c4c781f"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-78-1F:oa-IT"
+	Calling-Station-Id = "28-5A-EB-88-BD-B4"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 337
+	Acct-Input-Packets = 36
+	Acct-Output-Packets = 18
+	Acct-Input-Octets = 8009
+	Acct-Output-Octets = 4404
+	Event-Timestamp = "Nov  8 2015 19:42:32 CET"
+	Acct-Terminate-Cause = User-Request
+	Acct-Unique-Session-Id = "f50713ec3e08f044"
+	Timestamp = 1447008157
+
+Sun Nov  8 19:43:07 2015
+	Acct-Session-Id = "56386302-00000127"
+	Acct-Status-Type = Stop
+	Acct-Authentic = RADIUS
+	User-Name = "cesek.l"
+	NAS-IP-Address = 10.10.9.12
+	NAS-Identifier = "24a43c4c781f"
+	NAS-Port = 0
+	Called-Station-Id = "32-A4-3C-4D-78-1F:oa-IT"
+	Calling-Station-Id = "D8-FC-93-79-4D-2A"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 350
+	Acct-Input-Packets = 353
+	Acct-Output-Packets = 26
+	Acct-Input-Octets = 50082
+	Acct-Output-Octets = 4772
+	Event-Timestamp = "Nov  8 2015 19:43:02 CET"
+	Acct-Terminate-Cause = User-Request
+	Acct-Unique-Session-Id = "1c6149a65ac8cf68"
+	Timestamp = 1447008187
+
